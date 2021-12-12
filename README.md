@@ -1,1 +1,4 @@
-# 2021-2M-acessibilidade-ditigal-G7
+# 2021-2M-acessibilidade-digital-G7
+
+- Jhenifer
+- Ana
